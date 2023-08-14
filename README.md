@@ -1,0 +1,1 @@
+O projeto é sobre a criação de uma lista de receitas utilizando apenas HTML, inicialmente.
